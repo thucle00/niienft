@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/studentkudo/static/css/main.83c89ad1.chunk.css",
-    "main.js": "/studentkudo/static/js/main.d4a5e0c9.chunk.js",
+    "main.js": "/studentkudo/static/js/main.56722ef3.chunk.js",
     "runtime-main.js": "/studentkudo/static/js/runtime-main.0c3b514d.js",
     "static/css/2.99600032.chunk.css": "/studentkudo/static/css/2.99600032.chunk.css",
     "static/js/2.8dabba2f.chunk.js": "/studentkudo/static/js/2.8dabba2f.chunk.js",
@@ -21,6 +21,6 @@
     "static/css/2.99600032.chunk.css",
     "static/js/2.8dabba2f.chunk.js",
     "static/css/main.83c89ad1.chunk.css",
-    "static/js/main.d4a5e0c9.chunk.js"
+    "static/js/main.56722ef3.chunk.js"
   ]
 }
